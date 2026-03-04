@@ -31,6 +31,5 @@ O app usa binarios de sistema:
 - `gs` (Ghostscript)
 - `qpdf`
 
-Se a plataforma nao tiver esses binarios preinstalados, sera necessario
-um ambiente com suporte a pacotes de sistema para instalar ambos.
-
+No Streamlit Community Cloud, esses pacotes sao instalados via `packages.txt`
+na raiz do repositorio.
